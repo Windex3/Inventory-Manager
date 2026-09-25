@@ -7,13 +7,13 @@ This project was developed to gain experience building a native Android applicat
 ## Screenshots
 
 ### Login
-[PLACEHOLDER - Add Login Screen Screenshot]
+<img src="screenshots/Login.png" width="300">
 
 ### Inventory
-[PLACEHOLDER - Add Inventory Screen Screenshot]
+<img src="screenshots/Inventory.png" width="300">
 
 ### Add Item
-[PLACEHOLDER - Add Item Screen Screenshot]
+<img src="screenshots/AddItem.png" width="300">
 
 ## Features
 
@@ -63,7 +63,7 @@ User credentials are also stored locally in SQLite and are used to validate user
 Clone the repository:
 
 ```bash
-git clone YOUR-GITHUB-REPOSITORY-URL
+git clone https://github.com/Windex3/Inventory-Manager
 ```
 
 Open the project in Android Studio.
